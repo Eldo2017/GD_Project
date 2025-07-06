@@ -19,7 +19,9 @@ https://dashboard.ngrok.com/get-started/your-authtoken 에서
 
 4. 터미널에서
 
-ngrok config add-authtoken "복사한 Authtoken" 입력하기
+ngrok config add-authtoken "복사한 Authtoken" 입력하고
+
+ngrok http 3000 입력하기
 
 
 5. ngrok 실행화면에서
